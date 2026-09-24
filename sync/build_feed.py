@@ -2,11 +2,12 @@
 """Rebuild feed.xml from the live muse.ai source feed.
 
 The muse.ai feed template does not emit <itunes:author> (Apple Podcasts
-Connect's required "Artist" field) or <itunes:owner>/<itunes:email>
-(required by Spotify for Creators and YouTube RSS ingestion). This script
-fetches the source feed and writes a byte-faithful copy with those tags
-added at the channel level. Episodes, GUIDs, enclosure URLs, artwork, and
-descriptions are copied verbatim.
+Connect's required "Artist" field), <itunes:owner>/<itunes:email>
+(required by Spotify for Creators and YouTube RSS ingestion), or
+<itunes:category> (Apple Podcasts Connect's required primary category).
+This script fetches the source feed and writes a byte-faithful copy with
+those tags added at the channel level. Episodes, GUIDs, enclosure URLs,
+artwork, and descriptions are copied verbatim.
 
 Run by .github/workflows/sync-feed.yml every morning after the episode
 publish, or manually with:  python3 sync/build_feed.py
@@ -26,6 +27,7 @@ SELF_URL = "https://srjain04.github.io/daily-ai-download-feed/feed.xml"
 AUTHOR = "Saurabh Jain"
 OWNER_NAME = "Saurabh Jain"
 OWNER_EMAIL = "srjain@gmail.com"
+CATEGORY = "Technology"  # Apple Podcasts primary category
 # ------------------------------------------------------------------------
 
 BROWSER_UA = (
@@ -52,6 +54,7 @@ def build_proxy(xml: str) -> str:
         f"    <itunes:name>{escape(OWNER_NAME)}</itunes:name>\n"
         f"    <itunes:email>{escape(OWNER_EMAIL)}</itunes:email>\n"
         f"  </itunes:owner>\n"
+        f"  <itunes:category text=\"{escape(CATEGORY)}\"/>\n"
     )
     m = re.search(r"(<channel>\s*<title>.*?</title>\s*\n)", xml, re.DOTALL)
     if not m:
