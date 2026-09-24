@@ -81,5 +81,15 @@ AI Generated</description>
     <pubDate>Wed, 23 Sep 2026 14:16:01 +0000</pubDate>
     <itunes:duration>823</itunes:duration>
   </item>
+  <item>
+    <title>The Daily AI Download — September 24, 2026</title>
+    <description>Altman and Amodei ask the UN for global AI guardrails as Trump meets Xi, Anthropic&apos;s Claude agents may have found a CRISPR-like gene editing system, Meta pauses AI call tests and cuts 10% of staff, and Apple doubles down on custom AI silicon with Broadcom.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-faaf5648-d086-4d83-9e11-16004e44aa00.mp3" length="5637541" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-faaf5648-d086-4d83-9e11-16004e44aa00</guid>
+    <pubDate>Thu, 24 Sep 2026 14:21:53 +0000</pubDate>
+    <itunes:duration>704</itunes:duration>
+  </item>
 </channel>
 </rss>
