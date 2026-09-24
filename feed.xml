@@ -8,6 +8,7 @@
     <itunes:name>Saurabh Jain</itunes:name>
     <itunes:email>srjain@gmail.com</itunes:email>
   </itunes:owner>
+  <itunes:category text="Technology"/>
   <description>A daily briefing on the most important AI news — model releases, research, infrastructure, funding, and policy — with real technical depth. Hosted by Alex and Jordan. New episode every morning.
 
 AI Generated</description>
