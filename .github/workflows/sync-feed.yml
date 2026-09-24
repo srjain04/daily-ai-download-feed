@@ -1,0 +1,28 @@
+name: Sync podcast feed
+
+# Rebuilds feed.xml from the live muse.ai source feed every morning, after
+# the new episode publishes (~7:10 AM Pacific). 15:30 UTC = 8:30 AM PDT.
+on:
+  schedule:
+    - cron: "30 15 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Rebuild feed.xml
+        run: python3 sync/build_feed.py
+      - name: Commit and push if changed
+        run: |
+          git config user.name "feed-sync"
+          git config user.email "feed-sync@users.noreply.github.com"
+          git add feed.xml
+          git diff --cached --quiet || (git commit -m "Sync feed.xml from source feed" && git push)
