@@ -91,5 +91,15 @@ AI Generated</description>
     <pubDate>Thu, 24 Sep 2026 14:21:53 +0000</pubDate>
     <itunes:duration>704</itunes:duration>
   </item>
+  <item>
+    <title>The Daily AI Download — September 25, 2026</title>
+    <description>Oracle&apos;s Stargate Project Jupiter hits a force majeure snag as xAI doubles its chip count, Xiaomi&apos;s MiMo-V2.6-Pro takes the open-weights crown, Anthropic launches a plugin marketplace, and the White House gates UK model access.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-7a6ed74b-e4b1-4590-a789-7529bb4285d1.mp3" length="4976293" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-7a6ed74b-e4b1-4590-a789-7529bb4285d1</guid>
+    <pubDate>Fri, 25 Sep 2026 10:12:39 +0000</pubDate>
+    <itunes:duration>622</itunes:duration>
+  </item>
 </channel>
 </rss>
