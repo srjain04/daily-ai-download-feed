@@ -101,5 +101,15 @@ AI Generated</description>
     <pubDate>Fri, 25 Sep 2026 10:12:39 +0000</pubDate>
     <itunes:duration>622</itunes:duration>
   </item>
+  <item>
+    <title>The Daily AI Download — September 26, 2026</title>
+    <description>Google sends TPUs to orbit with Project Suncatcher, OpenAI prepares a GPT-6 Cyber preview, Anthropic signs an 11.6 billion dollar Akamai cloud deal, and Liquid AI makes vision models three times faster.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-a8160952-c8ad-4364-ad46-90e9ff581306.mp3" length="5086501" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-a8160952-c8ad-4364-ad46-90e9ff581306</guid>
+    <pubDate>Sat, 26 Sep 2026 10:15:59 +0000</pubDate>
+    <itunes:duration>635</itunes:duration>
+  </item>
 </channel>
 </rss>
