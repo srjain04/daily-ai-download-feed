@@ -121,5 +121,15 @@ AI Generated</description>
     <pubDate>Sun, 27 Sep 2026 10:07:05 +0000</pubDate>
     <itunes:duration>631</itunes:duration>
   </item>
+  <item>
+    <title>The Daily AI Download — September 28, 2026</title>
+    <description>Nvidia ships hardware-level agent containment it says would have stopped the Hugging Face hack, OpenAI DevDay leaks reveal a persistent assistant called o and a $500 Pro Max tier, and California names its frontier AI kill-switch panel.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-9c0e72bb-f8fe-472d-a02b-9c3936af28b7.mp3" length="5974885" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-9c0e72bb-f8fe-472d-a02b-9c3936af28b7</guid>
+    <pubDate>Mon, 28 Sep 2026 10:08:27 +0000</pubDate>
+    <itunes:duration>746</itunes:duration>
+  </item>
 </channel>
 </rss>
