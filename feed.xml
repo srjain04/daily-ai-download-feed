@@ -131,5 +131,15 @@ AI Generated</description>
     <pubDate>Mon, 28 Sep 2026 10:08:27 +0000</pubDate>
     <itunes:duration>746</itunes:duration>
   </item>
+  <item>
+    <title>The Daily AI Download — September 29, 2026</title>
+    <description>DevDay keynote day: OpenAI&apos;s always-on assistant leak, the intelligence-explosion paper from Hinton, Bengio and lab chiefs, today&apos;s White House AI summit, AMD&apos;s $8.2B World Labs buy, and Meta&apos;s enterprise push.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-1f97da07-be6b-430e-91b5-d46b976a37b0.mp3" length="4920037" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-1f97da07-be6b-430e-91b5-d46b976a37b0</guid>
+    <pubDate>Tue, 29 Sep 2026 10:07:16 +0000</pubDate>
+    <itunes:duration>615</itunes:duration>
+  </item>
 </channel>
 </rss>
