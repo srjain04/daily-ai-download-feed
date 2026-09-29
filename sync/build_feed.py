@@ -11,10 +11,15 @@ artwork, and descriptions are copied verbatim.
 
 Run by .github/workflows/sync-feed.yml every morning after the episode
 publish, or manually with:  python3 sync/build_feed.py
+
+Per-episode artwork: any art/YYYY-MM-DD.jpg file present in the repo is
+injected as that date's episode <itunes:image> (used by YouTube, Spotify,
+and Apple Podcasts when present; episodes without a file keep the show art).
 """
 
 import re
 import urllib.request
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 from xml.sax.saxutils import escape
 
@@ -28,6 +33,10 @@ AUTHOR = "Saurabh Jain"
 OWNER_NAME = "Saurabh Jain"
 OWNER_EMAIL = "srjain@gmail.com"
 CATEGORY = "Technology"  # Apple Podcasts primary category
+# Per-episode artwork: art/YYYY-MM-DD.jpg files committed to this repo are
+# injected as each episode's <itunes:image>.
+ART_DIR = Path(__file__).resolve().parent.parent / "art"
+ART_BASE_URL = "https://srjain04.github.io/daily-ai-download-feed/art"
 # ------------------------------------------------------------------------
 
 BROWSER_UA = (
@@ -70,8 +79,33 @@ def build_proxy(xml: str) -> str:
     return xml
 
 
+def inject_episode_art(xml: str) -> str:
+    """Inject per-episode <itunes:image> for episodes with a custom art file.
+
+    Matches each <item>'s pubDate to art/YYYY-MM-DD.jpg. Episodes publish
+    ~3 AM Pacific, so the pubDate's UTC date always matches the Pacific date.
+    Episodes without a matching file are left untouched (show art applies).
+    """
+
+    def repl(m):
+        body = m.group(1)
+        d = re.search(r"<pubDate>(.*?)</pubDate>", body)
+        if not d:
+            return m.group(0)
+        try:
+            day = parsedate_to_datetime(d.group(1).strip()).strftime("%Y-%m-%d")
+        except (TypeError, ValueError):
+            return m.group(0)
+        if not (ART_DIR / f"{day}.jpg").is_file():
+            return m.group(0)
+        tag = f'  <itunes:image href="{ART_BASE_URL}/{day}.jpg"/>\n'
+        return "<item>" + tag + body + "</item>"
+
+    return re.sub(r"<item>(.*?)</item>", repl, xml, flags=re.DOTALL)
+
+
 def main() -> None:
-    proxy = build_proxy(fetch_source_feed())
+    proxy = inject_episode_art(build_proxy(fetch_source_feed()))
     old = OUT.read_text(encoding="utf-8") if OUT.exists() else ""
     if proxy == old:
         print("feed.xml unchanged")
