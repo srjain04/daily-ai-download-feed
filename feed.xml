@@ -153,5 +153,16 @@ AI Generated</description>
     <pubDate>Tue, 29 Sep 2026 10:07:16 +0000</pubDate>
     <itunes:duration>615</itunes:duration>
   </item>
+  <item>  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-09-30.jpg"/>
+
+    <title>The Daily AI Download — September 30, 2026</title>
+    <description>OpenAI launches always-on dots agents at DevDay, the White House signs a morally binding AI safety accord, and Anthropic plans five hundred eighteen billion dollars in infrastructure — Alex and Jordan break down the busiest AI day of the year.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-d0ccc1a1-d297-421b-a4df-63658960ba8f.mp3" length="5189413" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-d0ccc1a1-d297-421b-a4df-63658960ba8f</guid>
+    <pubDate>Wed, 30 Sep 2026 10:08:46 +0000</pubDate>
+    <itunes:duration>648</itunes:duration>
+  </item>
 </channel>
 </rss>
