@@ -164,5 +164,16 @@ AI Generated</description>
     <pubDate>Wed, 30 Sep 2026 10:08:46 +0000</pubDate>
     <itunes:duration>648</itunes:duration>
   </item>
+  <item>  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-10-01.jpg"/>
+
+    <title>The Daily AI Download — October 1, 2026</title>
+    <description>Google launches Gemini 4 Argon, Tencent leases one hundred thousand Oracle chips, Micron&apos;s record quarter, and a Senate fight over datacenter power costs.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-48dcc9ff-351a-4ff6-80d2-f5d30ca4a781.mp3" length="4053541" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-48dcc9ff-351a-4ff6-80d2-f5d30ca4a781</guid>
+    <pubDate>Thu, 01 Oct 2026 10:04:15 +0000</pubDate>
+    <itunes:duration>506</itunes:duration>
+  </item>
 </channel>
 </rss>
