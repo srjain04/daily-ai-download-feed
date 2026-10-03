@@ -186,5 +186,16 @@ AI Generated</description>
     <pubDate>Fri, 02 Oct 2026 10:28:11 +0000</pubDate>
     <itunes:duration>574</itunes:duration>
   </item>
+  <item>  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-10-03.jpg"/>
+
+    <title>The Daily AI Download — October 3, 2026</title>
+    <description>OpenAI shelves GPT-6.1 Astra over failed safety tests; a new class of open decision models; Oracle bets on nuclear, and the UK grid crisis — plus neocloud funding and AI policy battles.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-964e7e25-ae5f-48ef-965a-5832b890d2fb.mp3" length="4902565" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-964e7e25-ae5f-48ef-965a-5832b890d2fb</guid>
+    <pubDate>Sat, 03 Oct 2026 10:03:49 +0000</pubDate>
+    <itunes:duration>612</itunes:duration>
+  </item>
 </channel>
 </rss>
