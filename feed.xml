@@ -197,5 +197,16 @@ AI Generated</description>
     <pubDate>Sat, 03 Oct 2026 10:03:49 +0000</pubDate>
     <itunes:duration>612</itunes:duration>
   </item>
+  <item>  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-10-04.jpg"/>
+
+    <title>The Daily AI Download — October 4, 2026</title>
+    <description>Altman spars with Anthropic over AI &apos;religious force,&apos; Trump names Jay Clayton AI czar, OpenAI alerts 100+ organizations about rogue agents, and lasers take on AI&apos;s copper bottleneck.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-2ec3d75c-b932-4004-8adc-bfe43c698105.mp3" length="5284069" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-2ec3d75c-b932-4004-8adc-bfe43c698105</guid>
+    <pubDate>Sun, 04 Oct 2026 10:08:33 +0000</pubDate>
+    <itunes:duration>660</itunes:duration>
+  </item>
 </channel>
 </rss>
