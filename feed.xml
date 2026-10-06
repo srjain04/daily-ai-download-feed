@@ -219,5 +219,16 @@ AI Generated</description>
     <pubDate>Mon, 05 Oct 2026 10:05:53 +0000</pubDate>
     <itunes:duration>652</itunes:duration>
   </item>
+  <item>  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-10-06.jpg"/>
+
+    <title>The Daily AI Download — October 6, 2026</title>
+    <description>Reflection AI launches its open-weight Beam model, Mistral teases a new model in Abu Dhabi, the fallout from New York City&apos;s sworn AI hearing, and how OpenAI made Astra up to eight times faster.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-20604b18-1fb5-49b5-ba92-6881f4149620.mp3" length="4675429" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-20604b18-1fb5-49b5-ba92-6881f4149620</guid>
+    <pubDate>Tue, 06 Oct 2026 10:03:34 +0000</pubDate>
+    <itunes:duration>584</itunes:duration>
+  </item>
 </channel>
 </rss>
