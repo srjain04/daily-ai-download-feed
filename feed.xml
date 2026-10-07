@@ -230,5 +230,16 @@ AI Generated</description>
     <pubDate>Tue, 06 Oct 2026 10:03:34 +0000</pubDate>
     <itunes:duration>584</itunes:duration>
   </item>
+  <item>  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-10-07.jpg"/>
+
+    <title>The Daily AI Download — October 7, 2026</title>
+    <description>Mistral ships a trillion-parameter Large 4, SpaceX seeks $40B for Nvidia chips, Claude Sonnet 5.5 goes free, and OpenAI drops 722 math manuscripts.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-34f7fb6a-2446-4e79-9919-2b76cc7c4e43.mp3" length="5204197" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-34f7fb6a-2446-4e79-9919-2b76cc7c4e43</guid>
+    <pubDate>Wed, 07 Oct 2026 10:04:36 +0000</pubDate>
+    <itunes:duration>650</itunes:duration>
+  </item>
 </channel>
 </rss>
