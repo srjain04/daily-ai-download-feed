@@ -241,5 +241,16 @@ AI Generated</description>
     <pubDate>Wed, 07 Oct 2026 10:04:36 +0000</pubDate>
     <itunes:duration>650</itunes:duration>
   </item>
+  <item>  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-10-08.jpg"/>
+
+    <title>The Daily AI Download — October 8, 2026</title>
+    <description>Claude Haiku 5.5 launches, Wall Street lines up a record debt wave for AI chips, Marvell&apos;s 120 billion dollar custom-chip deal with Google, Google&apos;s 890-megawatt nuclear bet, and new polling on voters&apos; AI fears.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-1172a209-e164-4fc4-b523-2db264d67fa7.mp3" length="4705765" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-1172a209-e164-4fc4-b523-2db264d67fa7</guid>
+    <pubDate>Thu, 08 Oct 2026 10:03:34 +0000</pubDate>
+    <itunes:duration>588</itunes:duration>
+  </item>
 </channel>
 </rss>
