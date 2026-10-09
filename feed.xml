@@ -252,5 +252,16 @@ AI Generated</description>
     <pubDate>Thu, 08 Oct 2026 10:03:34 +0000</pubDate>
     <itunes:duration>588</itunes:duration>
   </item>
+  <item>  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-10-09.jpg"/>
+
+    <title>The Daily AI Download — October 9, 2026</title>
+    <description>GPT-6 rolls out to all of ChatGPT with Intelligent UI, Manus raises 500 million dollars after the Meta breakup, record quarters at TSMC and Samsung, Finland halts Google data centers, and Denmark takes on deepfakes.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-8ea3c127-0d7a-4040-a8d8-64a89d93e853.mp3" length="5122213" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-8ea3c127-0d7a-4040-a8d8-64a89d93e853</guid>
+    <pubDate>Fri, 09 Oct 2026 10:04:04 +0000</pubDate>
+    <itunes:duration>640</itunes:duration>
+  </item>
 </channel>
 </rss>
