@@ -274,5 +274,16 @@ AI Generated</description>
     <pubDate>Sat, 10 Oct 2026 10:02:11 +0000</pubDate>
     <itunes:duration>626</itunes:duration>
   </item>
+  <item>  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-10-11.jpg"/>
+
+    <title>The Daily AI Download — October 11, 2026</title>
+    <description>Anthropic launches its Cyber Mission to defend power grids and open-source code, optical parts for AI data centers are sold out until twenty twenty-nine, an AI avatar fooled half its job-interview judges, and Nvidia buys into an inference-chip rival.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-bbe3e42b-aded-43a0-aba7-e5f632b3f698.mp3" length="5164645" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-bbe3e42b-aded-43a0-aba7-e5f632b3f698</guid>
+    <pubDate>Sun, 11 Oct 2026 10:02:45 +0000</pubDate>
+    <itunes:duration>645</itunes:duration>
+  </item>
 </channel>
 </rss>
