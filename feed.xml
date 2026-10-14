@@ -307,5 +307,16 @@ AI Generated</description>
     <pubDate>Tue, 13 Oct 2026 10:02:33 +0000</pubDate>
     <itunes:duration>561</itunes:duration>
   </item>
+  <item>  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-10-14.jpg"/>
+
+    <title>The Daily AI Download — October 14, 2026</title>
+    <description>Google&apos;s Gemini 4 Argon undercuts rivals on price, a NeurIPS paper proves safety testing has a mathematical limit, and Anthropic warns small models may soon self-replicate.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-b229f34e-b0ba-4f67-8a2c-cea22f183791.mp3" length="4392037" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-b229f34e-b0ba-4f67-8a2c-cea22f183791</guid>
+    <pubDate>Wed, 14 Oct 2026 10:04:06 +0000</pubDate>
+    <itunes:duration>549</itunes:duration>
+  </item>
 </channel>
 </rss>
