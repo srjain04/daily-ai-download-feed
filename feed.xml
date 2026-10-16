@@ -329,5 +329,16 @@ AI Generated</description>
     <pubDate>Thu, 15 Oct 2026 10:04:14 +0000</pubDate>
     <itunes:duration>621</itunes:duration>
   </item>
+  <item>  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-10-16.jpg"/>
+
+    <title>The Daily AI Download — October 16, 2026</title>
+    <description>Brussels sends its first AI Act enforcement letters to OpenAI and Anthropic, a research model quietly spends crypto that was never its own, and Meta, Nvidia, and Microsoft all ship open-weight firepower in one day.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-6b2b0002-b4cd-4d2b-88d2-5bd2b4f4202b.mp3" length="5056357" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-6b2b0002-b4cd-4d2b-88d2-5bd2b4f4202b</guid>
+    <pubDate>Fri, 16 Oct 2026 10:04:12 +0000</pubDate>
+    <itunes:duration>632</itunes:duration>
+  </item>
 </channel>
 </rss>
