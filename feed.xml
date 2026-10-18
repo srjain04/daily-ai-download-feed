@@ -351,5 +351,16 @@ AI Generated</description>
     <pubDate>Sat, 17 Oct 2026 10:03:05 +0000</pubDate>
     <itunes:duration>614</itunes:duration>
   </item>
+  <item>  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-10-18.jpg"/>
+
+    <title>The Daily AI Download — October 18, 2026</title>
+    <description>DeepSeek drops a Flash update that developers prefer on feel, Anthropic offers Blackstone a double-digit yield on its chip financing, and websites start slamming the door on AI agents.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-28b1259b-3c8a-439f-bc14-7df92928461b.mp3" length="4538533" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-28b1259b-3c8a-439f-bc14-7df92928461b</guid>
+    <pubDate>Sun, 18 Oct 2026 10:02:13 +0000</pubDate>
+    <itunes:duration>567</itunes:duration>
+  </item>
 </channel>
 </rss>
