@@ -362,5 +362,16 @@ AI Generated</description>
     <pubDate>Sun, 18 Oct 2026 10:02:13 +0000</pubDate>
     <itunes:duration>567</itunes:duration>
   </item>
+  <item>  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-10-19.jpg"/>
+
+    <title>The Daily AI Download — October 19, 2026</title>
+    <description>Anthropic sets aside a 8B slice for public benefit before its IPO, OpenAI replaces Anthropic on the Pentagon&apos;s classified networks, and the power grid becomes the hard limit on AI datacenters.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-f9771e8e-c671-4b91-991a-ec86249b6632.mp3" length="5463013" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-f9771e8e-c671-4b91-991a-ec86249b6632</guid>
+    <pubDate>Mon, 19 Oct 2026 10:06:10 +0000</pubDate>
+    <itunes:duration>682</itunes:duration>
+  </item>
 </channel>
 </rss>
