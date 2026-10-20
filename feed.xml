@@ -373,5 +373,16 @@ AI Generated</description>
     <pubDate>Mon, 19 Oct 2026 10:06:10 +0000</pubDate>
     <itunes:duration>682</itunes:duration>
   </item>
+  <item>  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-10-20.jpg"/>
+
+    <title>The Daily AI Download — October 20, 2026</title>
+    <description>OpenAI races to lock in 0B before Anthropic&apos;s IPO, Nvidia&apos;s Vera CPU gets its first customer, and Washington pushes DeepSeek out of federal agencies.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-8f6d1717-75ca-4a2d-ad36-875aa3e1626f.mp3" length="4954021" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-8f6d1717-75ca-4a2d-ad36-875aa3e1626f</guid>
+    <pubDate>Tue, 20 Oct 2026 10:11:55 +0000</pubDate>
+    <itunes:duration>619</itunes:duration>
+  </item>
 </channel>
 </rss>
