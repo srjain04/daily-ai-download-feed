@@ -384,5 +384,16 @@ AI Generated</description>
     <pubDate>Tue, 20 Oct 2026 10:11:55 +0000</pubDate>
     <itunes:duration>619</itunes:duration>
   </item>
+  <item>  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-10-21.jpg"/>
+
+    <title>The Daily AI Download — October 21, 2026</title>
+    <description>China&apos;s cloud giants order $35B of Nvidia chips, Anthropic shops its own AI safety bill to Congress, and OpenAI buys deeper into biotech.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-78cb267f-9be9-42bb-88fc-8873d503c068.mp3" length="5200933" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-78cb267f-9be9-42bb-88fc-8873d503c068</guid>
+    <pubDate>Wed, 21 Oct 2026 10:05:24 +0000</pubDate>
+    <itunes:duration>650</itunes:duration>
+  </item>
 </channel>
 </rss>
