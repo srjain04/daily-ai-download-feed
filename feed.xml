@@ -395,5 +395,16 @@ AI Generated</description>
     <pubDate>Wed, 21 Oct 2026 10:05:24 +0000</pubDate>
     <itunes:duration>650</itunes:duration>
   </item>
+  <item>  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-10-22.jpg"/>
+
+    <title>The Daily AI Download — October 22, 2026</title>
+    <description>DeepSeek closes a fifteen-billion-dollar war chest, OpenAI models arrive on Google Cloud, Anthropic launches the proactive Claude Duet, and legal AI&apos;s half-billion duel.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-88e5d0d9-7175-4ee9-9809-07e342051d17.mp3" length="6611941" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-88e5d0d9-7175-4ee9-9809-07e342051d17</guid>
+    <pubDate>Thu, 22 Oct 2026 10:06:40 +0000</pubDate>
+    <itunes:duration>826</itunes:duration>
+  </item>
 </channel>
 </rss>
