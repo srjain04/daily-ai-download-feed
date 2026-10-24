@@ -417,5 +417,16 @@ AI Generated</description>
     <pubDate>Fri, 23 Oct 2026 10:04:36 +0000</pubDate>
     <itunes:duration>556</itunes:duration>
   </item>
+  <item>  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-10-24.jpg"/>
+
+    <title>The Daily AI Download — October 24, 2026</title>
+    <description>Kimi K3.1 Pro nearly matches the frontier — and deliberately gives up cyber skills; OpenAI&apos;s valuation slips to .25 trillion; Britain builds an AI biosecurity lab; and banks block AI agents.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-0e0820ff-4738-46af-9595-b3e0aa22894d.mp3" length="5125093" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-0e0820ff-4738-46af-9595-b3e0aa22894d</guid>
+    <pubDate>Sat, 24 Oct 2026 10:02:08 +0000</pubDate>
+    <itunes:duration>640</itunes:duration>
+  </item>
 </channel>
 </rss>
