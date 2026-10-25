@@ -428,5 +428,16 @@ AI Generated</description>
     <pubDate>Sat, 24 Oct 2026 10:02:08 +0000</pubDate>
     <itunes:duration>640</itunes:duration>
   </item>
+  <item>  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-10-25.jpg"/>
+
+    <title>The Daily AI Download — October 25, 2026</title>
+    <description>OpenAI trains its frontier models with the internet switched off, Block&apos;s Dessa learns speech by listening alone, and Daytona builds a unicorn cloud for AI agents.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-b92e5d94-07b6-46dd-b61b-6c74d1c26a78.mp3" length="4933946" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-b92e5d94-07b6-46dd-b61b-6c74d1c26a78</guid>
+    <pubDate>Sun, 25 Oct 2026 10:02:45 +0000</pubDate>
+    <itunes:duration>616</itunes:duration>
+  </item>
 </channel>
 </rss>
