@@ -450,5 +450,16 @@ AI Generated</description>
     <pubDate>Mon, 26 Oct 2026 10:03:25 +0000</pubDate>
     <itunes:duration>650</itunes:duration>
   </item>
+  <item>  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-10-27.jpg"/>
+
+    <title>The Daily AI Download — October 27, 2026</title>
+    <description>Anthropic files for its IPO with eye-popping numbers and unusually honest risks, OpenAI claims its models cracked problems humans could not, and Meta asks shareholders for 95 billion dollars.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-c2bfeb7f-7969-4c38-8378-99df3debd2f3.mp3" length="4884517" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-c2bfeb7f-7969-4c38-8378-99df3debd2f3</guid>
+    <pubDate>Tue, 27 Oct 2026 10:04:00 +0000</pubDate>
+    <itunes:duration>610</itunes:duration>
+  </item>
 </channel>
 </rss>
