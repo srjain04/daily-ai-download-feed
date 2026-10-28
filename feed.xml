@@ -461,5 +461,16 @@ AI Generated</description>
     <pubDate>Tue, 27 Oct 2026 10:04:00 +0000</pubDate>
     <itunes:duration>610</itunes:duration>
   </item>
+  <item>  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-10-28.jpg"/>
+
+    <title>The Daily AI Download — October 28, 2026</title>
+    <description>OpenAI plans to buy Google&apos;s AI chips, Anthropic posts its own refutation of a famous math conjecture, and Mistral&apos;s open weights miss their reported date.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-fb27d0a6-9247-4c5f-bbf3-9a756932801d.mp3" length="4977061" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-fb27d0a6-9247-4c5f-bbf3-9a756932801d</guid>
+    <pubDate>Wed, 28 Oct 2026 10:07:25 +0000</pubDate>
+    <itunes:duration>622</itunes:duration>
+  </item>
 </channel>
 </rss>
