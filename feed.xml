@@ -483,5 +483,16 @@ AI Generated</description>
     <pubDate>Thu, 29 Oct 2026 10:08:56 +0000</pubDate>
     <itunes:duration>708</itunes:duration>
   </item>
+  <item>  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-10-30.jpg"/>
+
+    <title>The Daily AI Download — October 30, 2026</title>
+    <description>Mistral gives away a trillion-parameter cyber model, Amazon and Intel earnings spook the market, and Congress demands faster AI safety reporting.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-8e193451-5f63-437f-be9e-2c1ae86d4f90.mp3" length="5915557" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-8e193451-5f63-437f-be9e-2c1ae86d4f90</guid>
+    <pubDate>Fri, 30 Oct 2026 10:05:37 +0000</pubDate>
+    <itunes:duration>739</itunes:duration>
+  </item>
 </channel>
 </rss>
