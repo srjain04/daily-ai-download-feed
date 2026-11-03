@@ -527,5 +527,16 @@ AI Generated</description>
     <pubDate>Mon, 02 Nov 2026 11:05:36 +0000</pubDate>
     <itunes:duration>614</itunes:duration>
   </item>
+  <item>  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-11-03.jpg"/>
+
+    <title>The Daily AI Download — November 3, 2026</title>
+    <description>Anthropic&apos;s IPO filing reveals a 95 billion compute bill, Marvell bets 15 billion on light-speed AI data centers, and MIT shows one model rewriting another model&apos;s weights by hand.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-7938b31c-ebcc-4e16-9cba-c8e0cfe1f3fe.mp3" length="5009317" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-7938b31c-ebcc-4e16-9cba-c8e0cfe1f3fe</guid>
+    <pubDate>Tue, 03 Nov 2026 11:04:55 +0000</pubDate>
+    <itunes:duration>626</itunes:duration>
+  </item>
 </channel>
 </rss>
