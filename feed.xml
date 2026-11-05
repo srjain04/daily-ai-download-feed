@@ -549,5 +549,16 @@ AI Generated</description>
     <pubDate>Wed, 04 Nov 2026 11:06:35 +0000</pubDate>
     <itunes:duration>616</itunes:duration>
   </item>
+  <item>  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-11-05.jpg"/>
+
+    <title>The Daily AI Download — November 5, 2026</title>
+    <description>Oracle kills its seven-billion-dollar Tencent chip lease, OpenAI&apos;s autonomous pipeline finds nine hundred and forty eight Linux kernel flaws, and OpenAI and Meta both buy coding-agent startups on the same day.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-53d9c23c-48aa-450f-9a39-927fbbb9218a.mp3" length="4821541" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-53d9c23c-48aa-450f-9a39-927fbbb9218a</guid>
+    <pubDate>Thu, 05 Nov 2026 11:15:22 +0000</pubDate>
+    <itunes:duration>602</itunes:duration>
+  </item>
 </channel>
 </rss>
