@@ -571,5 +571,16 @@ AI Generated</description>
     <pubDate>Fri, 06 Nov 2026 11:09:52 +0000</pubDate>
     <itunes:duration>613</itunes:duration>
   </item>
+  <item>  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-11-07.jpg"/>
+
+    <title>The Daily AI Download — November 7, 2026</title>
+    <description>OpenAI closes eleven billion dollars at a one point two five trillion dollar valuation, DeepMind&apos;s AI agents find new weaknesses in legacy RSA encryption, and Stanford finds almost half of famous AI research claims have expired.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-51a3d77a-3be0-4c42-9b78-b3a858ee8978.mp3" length="5135077" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-51a3d77a-3be0-4c42-9b78-b3a858ee8978</guid>
+    <pubDate>Sat, 07 Nov 2026 11:06:07 +0000</pubDate>
+    <itunes:duration>641</itunes:duration>
+  </item>
 </channel>
 </rss>
