@@ -582,5 +582,16 @@ AI Generated</description>
     <pubDate>Sat, 07 Nov 2026 11:06:07 +0000</pubDate>
     <itunes:duration>641</itunes:duration>
   </item>
+  <item>  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-11-08.jpg"/>
+
+    <title>The Daily AI Download — November 8, 2026</title>
+    <description>Anthropic pushes ahead with its pre-Thanksgiving IPO at a lower valuation, an AI system proves an 18-year-old math conjecture, and Thinking Machines ships Inkling 2 Small.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-cbdf78cc-a760-4980-a552-f444cfe21dab.mp3" length="4601125" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-cbdf78cc-a760-4980-a552-f444cfe21dab</guid>
+    <pubDate>Sun, 08 Nov 2026 11:03:05 +0000</pubDate>
+    <itunes:duration>575</itunes:duration>
+  </item>
 </channel>
 </rss>
