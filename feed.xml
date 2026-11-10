@@ -604,5 +604,16 @@ AI Generated</description>
     <pubDate>Mon, 09 Nov 2026 11:05:57 +0000</pubDate>
     <itunes:duration>699</itunes:duration>
   </item>
+  <item>  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-11-10.jpg"/>
+
+    <title>The Daily AI Download — November 10, 2026</title>
+    <description>Anthropic&apos;s Fable 5.2 formalizes Fermat&apos;s Last Theorem with a thousand agents, Meta&apos;s ten-cent Muse Ember takes on Haiku, OpenAI builds a 35-second kill switch, and Nvidia&apos;s CEO faces a board investigation days before earnings.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-8a9c069d-7296-47c2-87c8-46b9e14150e6.mp3" length="6164581" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-8a9c069d-7296-47c2-87c8-46b9e14150e6</guid>
+    <pubDate>Tue, 10 Nov 2026 11:07:25 +0000</pubDate>
+    <itunes:duration>770</itunes:duration>
+  </item>
 </channel>
 </rss>
