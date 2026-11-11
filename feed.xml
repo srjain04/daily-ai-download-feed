@@ -615,5 +615,16 @@ AI Generated</description>
     <pubDate>Tue, 10 Nov 2026 11:07:25 +0000</pubDate>
     <itunes:duration>770</itunes:duration>
   </item>
+  <item>  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-11-11.jpg"/>
+
+    <title>The Daily AI Download — November 11, 2026</title>
+    <description>Anthropic prices its IPO at seventy to seventy-eight dollars a share, Google uses Gemini 4 Carbon to formally verify the Signal protocol, and Nvidia slides on a seven and a half billion dollar chip smuggling report.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-7e6ef100-36dd-453a-ac6c-5834fd53283a.mp3" length="4449829" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-7e6ef100-36dd-453a-ac6c-5834fd53283a</guid>
+    <pubDate>Wed, 11 Nov 2026 11:05:37 +0000</pubDate>
+    <itunes:duration>556</itunes:duration>
+  </item>
 </channel>
 </rss>
