@@ -626,5 +626,16 @@ AI Generated</description>
     <pubDate>Wed, 11 Nov 2026 11:05:37 +0000</pubDate>
     <itunes:duration>556</itunes:duration>
   </item>
+  <item>  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-11-12.jpg"/>
+
+    <title>The Daily AI Download — November 12, 2026</title>
+    <description>Nvidia&apos;s board reportedly moves to oust Jensen Huang, AWS ships a cloud emulator no human wrote, and DeepMind&apos;s AlphaGenome 2 reads DNA cell by cell.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-64125a13-8acd-4de2-bcb9-a882063f0539.mp3" length="5457061" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-64125a13-8acd-4de2-bcb9-a882063f0539</guid>
+    <pubDate>Thu, 12 Nov 2026 11:04:34 +0000</pubDate>
+    <itunes:duration>682</itunes:duration>
+  </item>
 </channel>
 </rss>
