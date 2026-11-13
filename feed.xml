@@ -637,5 +637,16 @@ AI Generated</description>
     <pubDate>Thu, 12 Nov 2026 11:04:34 +0000</pubDate>
     <itunes:duration>682</itunes:duration>
   </item>
+  <item>  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-11-13.jpg"/>
+
+    <title>The Daily AI Download — November 13, 2026</title>
+    <description>Google ships Gemini 4 Hydrogen and AI glasses, Mirendil raises B after agents pretrained a frontier model, and nonprofits sue to freeze frontier AI development.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-fc5843d6-e934-4547-8a60-2893478644f1.mp3" length="4877413" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-fc5843d6-e934-4547-8a60-2893478644f1</guid>
+    <pubDate>Fri, 13 Nov 2026 11:05:43 +0000</pubDate>
+    <itunes:duration>609</itunes:duration>
+  </item>
 </channel>
 </rss>
