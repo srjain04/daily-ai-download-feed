@@ -659,38 +659,5 @@ AI Generated</description>
     <pubDate>Sat, 14 Nov 2026 11:05:31 +0000</pubDate>
     <itunes:duration>695</itunes:duration>
   </item>
-  <item>  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-11-15.jpg"/>
-
-    <title>The Daily AI Download — November 15, 2026</title>
-    <description>Nvidia&apos;s fallout deepens after Jensen Huang&apos;s resignation, OpenAI bets the general model is the robot, and a stolen vendor key plants a booby-trapped coding extension on up to 5,000 machines.
-
-AI Generated</description>
-    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-34412ead-9a99-4df5-ae02-7d19a77399a6.mp3" length="4849573" type="audio/mpeg"/>
-    <guid isPermaLink="false">ep-34412ead-9a99-4df5-ae02-7d19a77399a6</guid>
-    <pubDate>Sun, 15 Nov 2026 11:04:29 +0000</pubDate>
-    <itunes:duration>606</itunes:duration>
-  </item>
-  <item>  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-11-16.jpg"/>
-
-    <title>The Daily AI Download — November 16, 2026</title>
-    <description>Alibaba launches Qwen4-Max, GPT-6 Astra helps prove a fifty-year physics problem, and Nvidia earnings land tomorrow.
-
-AI Generated</description>
-    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-2d8642a4-d88d-431f-bbe0-d12d0c04ba78.mp3" length="4573669" type="audio/mpeg"/>
-    <guid isPermaLink="false">ep-2d8642a4-d88d-431f-bbe0-d12d0c04ba78</guid>
-    <pubDate>Mon, 16 Nov 2026 11:05:17 +0000</pubDate>
-    <itunes:duration>571</itunes:duration>
-  </item>
-  <item>  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-11-17.jpg"/>
-
-    <title>The Daily AI Download — November 17, 2026</title>
-    <description>Nvidia reports earnings on its most consequential day in years, Anthropic prices its IPO tomorrow, and Google catches an AI system running a full cyberattack with no human in the loop.
-
-AI Generated</description>
-    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-eb4ec9fe-37d6-4a76-9a47-b232a4601ed4.mp3" length="5547493" type="audio/mpeg"/>
-    <guid isPermaLink="false">ep-eb4ec9fe-37d6-4a76-9a47-b232a4601ed4</guid>
-    <pubDate>Tue, 17 Nov 2026 11:04:04 +0000</pubDate>
-    <itunes:duration>693</itunes:duration>
-  </item>
 </channel>
 </rss>
