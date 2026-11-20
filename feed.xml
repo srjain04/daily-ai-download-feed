@@ -695,24 +695,13 @@ AI Generated</description>
   <item>  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-11-18.jpg"/>
 
     <title>The Daily AI Download — November 18, 2026</title>
-    <description>Nvidia&apos;s blowout quarter, OpenAI&apos;s GPT-6.2 Astra and Sol, and Anthropic&apos;s IPO pricing tonight.
+    <description>Nvidia's blowout quarter, OpenAI's GPT-6.2 Astra and Sol, and Anthropic's IPO pricing tonight.
 
 AI Generated</description>
     <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-b9376a23-386f-41d6-999b-a3ade553e792.mp3" length="5005669" type="audio/mpeg"/>
     <guid isPermaLink="false">ep-b9376a23-386f-41d6-999b-a3ade553e792</guid>
-    <pubDate>Wed, 18 Nov 2026 11:03:15 +0000</pubDate>
+    <pubDate>Wed, 18 Nov 2026 11:07:12 +0000</pubDate>
     <itunes:duration>625</itunes:duration>
-  </item>
-  <item>  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-11-19.jpg"/>
-
-    <title>The Daily AI Download — November 19, 2026</title>
-    <description>Anthropic&apos;s record IPO starts trading, Google answers with Gemini 4 Neon, and a model that rewrites its own weights.
-
-AI Generated</description>
-    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-7aefb7ec-50c4-49d7-acfb-dd00b1c7b631.mp3" length="5441701" type="audio/mpeg"/>
-    <guid isPermaLink="false">ep-7aefb7ec-50c4-49d7-acfb-dd00b1c7b631</guid>
-    <pubDate>Thu, 19 Nov 2026 11:04:54 +0000</pubDate>
-    <itunes:duration>680</itunes:duration>
   </item>
 </channel>
 </rss>
