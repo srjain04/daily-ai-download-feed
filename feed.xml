@@ -759,5 +759,17 @@ AI Generated</description>
     <pubDate>Mon, 23 Nov 2026 11:05:52 +0000</pubDate>
     <itunes:duration>586</itunes:duration>
   </item>
+  <item>
+  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-11-24.jpg"/>
+
+    <title>The Daily AI Download — November 24, 2026</title>
+    <description>Nvidia's historic rebound as Jensen Huang returns as CEO, Oracle's fully funded OpenAI build-out, a looping Chinese model, and DeepMind's verified quantum algorithms.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-1a47518d-c3d2-4898-b53c-489a66681e12.mp3" length="4701349" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-1a47518d-c3d2-4898-b53c-489a66681e12</guid>
+    <pubDate>Tue, 24 Nov 2026 11:03:54 +0000</pubDate>
+    <itunes:duration>587</itunes:duration>
+  </item>
 </channel>
 </rss>
