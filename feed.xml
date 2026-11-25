@@ -744,29 +744,31 @@ AI Generated</description>
 AI Generated</description>
     <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-03825ea5-81a1-4ec1-a954-fa49910db89a.mp3" length="6623653" type="audio/mpeg"/>
     <guid isPermaLink="false">ep-03825ea5-81a1-4ec1-a954-fa49910db89a</guid>
-    <pubDate>Sun, 22 Nov 2026 11:06:23 +0000</pubDate>
+    <pubDate>Sun, 22 Nov 2026 11:06:13 +0000</pubDate>
     <itunes:duration>827</itunes:duration>
   </item>
-  <item>  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-11-23.jpg"/>
+  <item>
+  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-11-23.jpg"/>
 
     <title>The Daily AI Download — November 23, 2026</title>
-    <description>OpenAI&apos;s chief scientist proposes a speed limit on frontier training, the Riemann proof gets formally certified, Nvidia&apos;s week gets worse, and agents get the keys to real money.
+    <description>OpenAI's chief scientist proposes a speed limit on frontier training, the Riemann proof gets formally certified, Nvidia's week gets worse, and agents get the keys to real money.
 
 AI Generated</description>
     <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-4c332d77-72dd-4f97-8f01-77de5226ed7d.mp3" length="4690021" type="audio/mpeg"/>
     <guid isPermaLink="false">ep-4c332d77-72dd-4f97-8f01-77de5226ed7d</guid>
-    <pubDate>Mon, 23 Nov 2026 11:05:54 +0000</pubDate>
+    <pubDate>Mon, 23 Nov 2026 11:05:52 +0000</pubDate>
     <itunes:duration>586</itunes:duration>
   </item>
-  <item>  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-11-24.jpg"/>
+  <item>
+  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-11-24.jpg"/>
 
     <title>The Daily AI Download — November 24, 2026</title>
-    <description>Nvidia&apos;s historic rebound as Jensen Huang returns as CEO, Oracle&apos;s fully funded OpenAI build-out, a looping Chinese model, and DeepMind&apos;s verified quantum algorithms.
+    <description>Nvidia's historic rebound as Jensen Huang returns as CEO, Oracle's fully funded OpenAI build-out, a looping Chinese model, and DeepMind's verified quantum algorithms.
 
 AI Generated</description>
     <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-1a47518d-c3d2-4898-b53c-489a66681e12.mp3" length="4701349" type="audio/mpeg"/>
     <guid isPermaLink="false">ep-1a47518d-c3d2-4898-b53c-489a66681e12</guid>
-    <pubDate>Tue, 24 Nov 2026 11:04:01 +0000</pubDate>
+    <pubDate>Tue, 24 Nov 2026 11:03:54 +0000</pubDate>
     <itunes:duration>587</itunes:duration>
   </item>
 </channel>
