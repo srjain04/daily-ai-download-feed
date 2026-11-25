@@ -771,5 +771,17 @@ AI Generated</description>
     <pubDate>Tue, 24 Nov 2026 11:03:54 +0000</pubDate>
     <itunes:duration>587</itunes:duration>
   </item>
+  <item>
+  <itunes:image href="https://srjain04.github.io/daily-ai-download-feed/art/2026-11-25.jpg"/>
+
+    <title>The Daily AI Download — November 25, 2026</title>
+    <description>Amazon spends a reported $7.5B on Decart's chip-optimization stack, Anthropic tests whether its agents will break out of their sandboxes, and GPT-6 designs proteins that work in a real lab.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/623945677472634/5941e1ba-fe34-4a40-a245-8da3262dc015/ep-959e97cd-d293-4eb1-8396-175c3e09aefe.mp3" length="6926334" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-959e97cd-d293-4eb1-8396-175c3e09aefe</guid>
+    <pubDate>Wed, 25 Nov 2026 11:04:45 +0000</pubDate>
+    <itunes:duration>863</itunes:duration>
+  </item>
 </channel>
 </rss>
